@@ -1,0 +1,16 @@
+body{
+    background: white;
+}
+
+.heading{
+    background-color: lightblue;
+    border: 2px black solid;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+#logo{
+    border: 2px black solid;
+    border-radius: 5px;
+    margin: 15px;
+}
